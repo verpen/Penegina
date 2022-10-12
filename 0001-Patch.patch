@@ -1,0 +1,21 @@
+From c084159111845eaaf8bb755abdd316d02c3ed8eb Mon Sep 17 00:00:00 2001
+From: PeneginaVV <vverpen@gmail.com>
+Date: Wed, 12 Oct 2022 13:20:00 +0300
+Subject: [PATCH] Patch
+
+---
+ patch | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 patch
+
+diff --git a/patch b/patch
+new file mode 100644
+index 0000000..a49e798
+--- /dev/null
++++ b/patch
+@@ -0,0 +1 @@
++Patch1
+\ No newline at end of file
+-- 
+2.36.0
+
